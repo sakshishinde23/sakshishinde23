@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi Shinde</h1>
 <h3 align="center">A third year Computer Engineering student at VESIT, Mumbai.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/f5/b0/45/f5b045627b6c125e500fc02f42d79763.jpg">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg">
 
 
 - 🌱 I’m currently learning **Java, HTML,CSS, JavaScript, Data Structures**
@@ -26,4 +26,3 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg" alt="sakshishinde23" /></p>
