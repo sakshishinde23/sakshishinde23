@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi Shinde</h1>
 <h3 align="center">A third year Computer Engineering student at VESIT, Mumbai.</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg">
+
 
 
 - 🌱 I’m currently learning **Java, HTML,CSS, JavaScript, Data Structures**
@@ -21,7 +21,7 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" width="40" height="40"/> </a> 
-  <a href="https://www.javascript.com/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.jpg" alt="javascript" width="40" height="40"/> </a> 
+ 
 </p>
 
 
