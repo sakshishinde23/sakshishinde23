@@ -24,6 +24,6 @@
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.jpg" alt="javascript" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg" alt="sakshishinde23" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshishinde23&show_icons=true&locale=en" alt="sakshishinde23" /></p>
+
+<p>&nbsp;<img align="center" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg" alt="sakshishinde23" /></p>
