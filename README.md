@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi Shinde</h1>
-<h3 align="center">A third year Computer Engineering student at VESIT, Mumbai.</h3>
 
 
-
-- 🌱 I’m currently learning **Java, HTML,CSS, JavaScript, Data Structures**
-
-- 📫 How to reach me **2020.sakshi.shinde@ves.ac.in**
+- 📫 How to reach me **sakshirs2323@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
